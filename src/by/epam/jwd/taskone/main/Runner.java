@@ -2,13 +2,13 @@ package by.epam.jwd.taskone.main;
 
 import java.util.List;
 
-import View.ArrayShow;
 import by.epam.jwd.taskone.creator.impl.CreatorArrayImpl;
 import by.epam.jwd.taskone.entity.ArrayEntity;
 import by.epam.jwd.taskone.exception.ReaderException;
 import by.epam.jwd.taskone.parser.impl.StringParserImpl;
 import by.epam.jwd.taskone.reader.impl.ReaderImpl;
 import by.epam.jwd.taskone.service.impl.GetValueOrSortedArrayImpl;
+import by.epam.jwd.taskone.view.ArrayShow;
 
 public class Runner {
 

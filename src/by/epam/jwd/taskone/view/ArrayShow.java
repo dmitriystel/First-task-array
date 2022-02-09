@@ -1,4 +1,4 @@
-package View;
+package by.epam.jwd.taskone.view;
 
 public class ArrayShow {
 	public void printArray (String str, int[] array) {
